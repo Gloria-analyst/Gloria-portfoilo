@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Gloria 👋
 
-<!--
-**Gloria-portfoilo/Gloria-portfoilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I'm a passionate **Data Analyst** based in Lagos, Nigeria 🇳🇬  
+I love turning raw data into clear insights that drive better decisions.
 
-Here are some ideas to get you started:
+- 🔍 Currently building my data portfolio
+- 📊 Skilled in SQL, Excel, Power BI & Tableau
+- 🌱 Always learning and growing
+- 💼 Open to Data Analyst opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Skills
+
+| Databases | SQL |
+| Spreadsheets | Microsoft Excel, Google Sheets |
+| Visualization | Power BI, Tableau |
+
+## 📂 Featured Projects
+
+> 🚧 Projects coming soon — stay tuned!
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ebubechukwu-obia)
+- 📧 gloriaobia271@gmail.com
+
